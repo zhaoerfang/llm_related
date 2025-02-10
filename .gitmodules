@@ -1,0 +1,6 @@
+[submodule "deepseek_learn/DeepSeek-R1"]
+	path = deepseek_learn/DeepSeek-R1
+	url = https://huggingface.co/deepseek-ai/DeepSeek-R1
+[submodule "deepseek_learn/DeepSeek-V3"]
+	path = deepseek_learn/DeepSeek-V3
+	url = https://huggingface.co/deepseek-ai/DeepSeek-V3
